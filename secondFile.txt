@@ -6,5 +6,5 @@ Computer Science
 AI
 Network Programming
 Computer Organization
-Compiler Design 
-Antropology
+Compiler Design is going well 
+Deep Learning
