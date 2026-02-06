@@ -8,3 +8,6 @@ Network Programming
 Computer Organization
 Compiler Design is going well 
 Deep Learning
+Compiler Design 2026
+Machine Learning
+
